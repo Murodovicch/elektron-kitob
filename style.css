@@ -1,0 +1,23 @@
+body {
+  background-color: silver;
+  font-family: Helvetica, sans-serif;
+  background-image: url(img/fon.jpg);
+  background-attachment: fixed;
+}
+
+.card,
+.list-group-item {
+  background-color: silver;
+}
+
+.card-body a {
+  background-color: rgb(20, 20, 20);
+}
+
+.card {
+  margin-bottom: 30px;
+}
+
+.page-item {
+  margin-top: 800px;
+}
