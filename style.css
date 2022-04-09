@@ -9,4 +9,11 @@ body {
   margin-bottom: 800px;
 }
 
-
+.card-text {
+  max-height: 45px;
+  -webkit-box-orient: vertical;
+  display: -webkit-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+}
