@@ -17,3 +17,7 @@ body {
   text-overflow: ellipsis;
   -webkit-line-clamp: 2;
 }
+
+.foter {
+  margin-top: 400px;
+}
